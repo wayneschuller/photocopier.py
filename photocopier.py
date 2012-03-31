@@ -3,7 +3,9 @@
 GUI interface for scanimage for simple copying of scanner documents
 
 Copyright: Wayne Schuller (wayne@schuller.id.au) 2005-2012
-Requires: pnmtops (netpbm package in ubuntu), scanimage (sane-utils package in ubuntu)
+Requires: 
+	pnmtops (netpbm package in ubuntu)
+	scanimage (sane-utils package in ubuntu)
 
 This program is free software: you can redistribute it and/or modify
    it under the terms of the GNU General Public License as published by
