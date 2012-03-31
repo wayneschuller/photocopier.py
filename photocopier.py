@@ -2,9 +2,21 @@
 '''photocopier.py  
 GUI interface for scanimage for simple copying of scanner documents
 
-Copyright: Wayne Schuller (wayne@schuller.id.au) 2005
-Licensed under the GNU General Public Licence (GPL).
+Copyright: Wayne Schuller (wayne@schuller.id.au) 2005-2012
 Requires: pnmtops (netpbm package in ubuntu), scanimage (sane-utils package in ubuntu)
+
+This program is free software: you can redistribute it and/or modify
+   it under the terms of the GNU General Public License as published by
+   the Free Software Foundation, either version 3 of the License, or
+   (at your option) any later version.
+
+   This program is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU General Public License for more details.
+
+   You should have received a copy of the GNU General Public License
+   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 '''
 
 import gtk
