@@ -1,0 +1,13 @@
+GUI interface for scanimage for simple copying of scanner documents (A4)
+
+Copyright: Wayne Schuller (wayne@schuller.id.au) 
+Licensed under the GNU General Public Licence (GPL).
+Requires: pnmtops (netpbm package in ubuntu), scanimage (sane-utils package in ubuntu)
+
+In Ubuntu under the Gnome desktop I create a launcher in the panel (or unity) menus to start this script. It allows an easy button for my family to use our scanner as a photocopier.
+
+
+TODO:
+	- Make it do a perfect sized copy (currently it is still slightly smaller).
+	- Tune the contrast.
+	- Provide interface feedback to user?
